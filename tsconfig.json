@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "module": "esNext",
+        "moduleResolution": "node",
+        "lib": [
+            "es2015", "es5", "scripthost", "dom", "dom.iterable"
+        ],
+        "strict": true,
+        "jsx": "react",
+        "jsxFactory": "h"
+    }
+}
