@@ -1,4 +1,4 @@
-# Hyperapp - Counter App (typescript / parcel / tsx )
+# Hyperapp - Seed App (typescript / parcel / tsx )
 
 Hyperapp seed with:
 
