@@ -15,15 +15,26 @@ Install parcel.js globally (This is the bundler)
 
 ```
 
-npm install -g parcel-bundler
+npm i -g parcel-bundler
 
 ```
 
-Install dependencies
+Install douglas globally
+
+> douglas is an importer that imports npm packages as a full projects rather than a node_modules
 
 ```
 
-npm install
+npm i -g douglas 
+
+
+```
+
+Install hyperapp-seed-ts
+
+```
+
+douglas get doug-hyperapp-seed-ts
 
 ```
 
